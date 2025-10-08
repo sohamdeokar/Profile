@@ -48,12 +48,6 @@ I enjoy transforming complex data into meaningful insights and intelligent syste
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamdeokar&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdeokar&layout=compact&theme=default)
-
----
-
 ## 🌐 Connect with Me
 📧 [sohamdeokar1342@gmail.com](mailto:sohamdeokar1342@gmail.com)  
 🔗 [LinkedIn](#) *(add your LinkedIn link)*  
